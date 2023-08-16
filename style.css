@@ -184,7 +184,7 @@ section h2 {
 
 footer {
     margin-top: 100px;
-    height: 400px;
+    height: 420px;
     background-image: linear-gradient(180deg, #180F4A, #090422, black);
     text-align: center;
     border-top: 5px solid #FF2978;
@@ -247,6 +247,9 @@ footer {
 
     .whats {
         display: none;
+    }
 
+    .footer{
+        height: 420px;
     }
 }
